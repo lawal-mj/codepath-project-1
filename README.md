@@ -5,7 +5,7 @@ Submitted by: **Abdulmujeeb Lawal**
 This web app: **Shift Car shop description**
 
 Time spent: **4** hours spent in total
- file:///home/mujeeb/Downloads/my-project%20demo.gif
+<iframe src="https://giphy.com/embed/LTGoMBmkeUpL03TTWT" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LTGoMBmkeUpL03TTWT">via GIPHY</a></p>
 ## Required Features
 
 The following **required** functionality is completed:
