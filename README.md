@@ -5,7 +5,7 @@ Submitted by: **Abdulmujeeb Lawal**
 This web app: **Shift Car shop description**
 
 Time spent: **4** hours spent in total
-<iframe src="https://giphy.com/embed/LTGoMBmkeUpL03TTWT" width="480" height="246" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LTGoMBmkeUpL03TTWT">via GIPHY</a></p>
+
 ## Required Features
 
 The following **required** functionality is completed:
@@ -26,15 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://giphy.com/gifs/LTGoMBmkeUpL03TTWT/fullscreen' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](https://giphy.com/gifs/LTGoMBmkeUpL03TTWT/fullscreen)
-<!-- Replace this with whatever GIF tool you used! -->
+![Project Demo](https://media.giphy.com/media/LTGoMBmkeUpL03TTWT/giphy.gif)
+
+
 GIF created with giphy  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
