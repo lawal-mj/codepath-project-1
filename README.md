@@ -28,8 +28,9 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://giphy.com/gifs/LTGoMBmkeUpL03TTWT/fullscreen' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![](https://giphy.com/gifs/LTGoMBmkeUpL03TTWT/fullscreen)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with giphy  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
